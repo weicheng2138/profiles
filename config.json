@@ -1,23 +1,22 @@
+```js
 {
-  "username": "johndoe91",
-  "name": "John Doe",
+  "username": "weicheng2138",
+  "name": "WeiCheng Hung",
   "projects": [
     "http://github.com/john91doe/profiles",
     "http://github.com/john91doe/i-learn-css-flexbox",
     "http://github.com/john91doe/my-webpage"
   ],
   "background":[
-    "A graduate student from NTUT Interaction Design Dept",
+    "Java 5 years",
     "Front-end",
-    "Javascript 1 year",
-    "HTML 2 months",
-    "CSS 3 months",
-    "SASS 2 months"
+    "Javascript 2 year",
+    "A little python, c and visual basic"
   ],
   "interests":[
-    "JavaScript (how to build web, desktop and mobile apps)",
-    "Remote Gigs/Jobs (forming a local agency/cooperative (as an app)"
+    "JavaScript (build web app and mobile apps)",
+    "Movie!!!"
   ],
-  "twitter": "http://twitter.com/johndoe91",
-  "github": "http://github.com/john91doe"
+  "github": "https://github.com/weicheng2138"
 }
+```
